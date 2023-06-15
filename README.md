@@ -56,6 +56,6 @@ Contributions to enhance the cafe menu web page are welcome. If you find any iss
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
+## Acknowledgements
 
 - This project was inspired by the curriculum of freeCodeCamp.
